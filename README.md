@@ -57,7 +57,7 @@ Digite agora a frequencia em %:<br>
 Digite o nome do aluno, (ou 0 para encerrar)<br>
 0<br>
 
-Saida:
+Saida:<br>
 --- Relatório dos alunos ---<br>
 Aluno: pedro| Media do aluno: 5| Frequência: 80%<br>
 Aluno: joão| Media do aluno: 5| Frequência: 50%<br>
