@@ -77,7 +77,7 @@ int main()
     for (size_t i = 0; i < alunos.size(); i++)
     {
         float mediaal = mediadoaluno(alunos[i]);
-        cout << "Aluno: " << alunos[i].nome << "| Media do aluno: " << mediaal << "| Frequência: " << alunos[i].frequencia << "%" << endl;
+        cout << "Aluno: " << alunos[i].nome << " | Media do aluno: " << mediaal << " | Frequência: " << alunos[i].frequencia << "%" << endl;
     }
 
     auto mediaturma = mediadaturma(alunos);
