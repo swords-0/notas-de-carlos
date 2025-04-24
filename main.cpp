@@ -65,7 +65,7 @@ int main()
         cout << "Agora digite as notas da disciplina:" << endl;
         for (size_t j = 0; j < 5; j++)
         {
-            cout << "nota da disciplina " << j + 1 << endl;
+            cout << "Nota da disciplina " << j + 1 << endl;
             cin >> nota;
             aluno.notas.push_back(nota);
         }
@@ -83,10 +83,10 @@ int main()
     auto mediaturma = mediadaturma(alunos);
     for (size_t i = 0; i < alunos.size(); i++)
     {
-        cout << "media da turma na disciplina " << i + 1 << ": " << mediaturma[i] << endl;
+        cout << "\nMedia da turma na disciplina " << i + 1 << ": " << mediaturma[i] << endl;
     }
 
-    cout << "alunos acima da media em todas as disciplinas: " << endl;
+    cout << "\nAlunos acima da média em todas as disciplinas: " << endl;
     for (size_t i = 0; i < alunos.size(); i++)
     {
         bool media = true;
@@ -100,16 +100,16 @@ int main()
         }
         if (media)
         {
-            cout << alunos[i].nome << endl;
+            cout << "\033[1;32m" << alunos[i].nome << "\033[0m" << endl;
         }
     }
 
-    cout << "Alunos com frequencia abaixo de 75% :" << endl;
+    cout << "\nAlunos com frequência abaixo de 75% :" << endl;
     for (size_t i = 0; i < alunos.size(); i++)
     {
         if (alunofreq(alunos[i]))
         {
-            cout << alunos[i].nome << endl;
+            cout << "\033[1;31m" << alunos[i].nome << "\033[0m" << endl;
         }
     }
 }
