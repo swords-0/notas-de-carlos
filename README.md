@@ -3,6 +3,8 @@
 
 Para executar o codigo Notas-de-carlos é necessário somente que o usuário digite o nome, a nota e a frequência de x alunos até que esteja satisfeito, de acordo com oque as intruções do código pedir. Quando o usuário estiver de acordo com todos os dados descritos ele pode digitar 0 para encerrar o recebimento de dados do usuário, logo após um relatório dos alunos vai surgir mostrando os dados do aluno: Nome, media, frequência, abaixo surge também os nomes dos alunos acima da média e aqueles com frequência abaixo de 75% 
 
+## Lista de premissas assumidas
+
 Para testes foram assumidas as premissas dos alunos: Pedro, João e Evelin em que o resultado esperado foi o mesmo do teste: 
 
 Entrada: 
@@ -70,3 +72,11 @@ Evelin
 
 Alunos com Frequência abaixo de 75% :
 joão
+
+## Decisões de Projeto
+
+Para resolução do problema foi escolhido a metodólogia de structs e vetores por serem flexiveis quanto a tamanho e a entrada de dados, por esse motivo também foi escolhido a linguagem C++ por ser uma ferramenta que facilita a manipulação de struct e vetores 
+
+## Oque mais você acha importante compartilhar sobre o projeto
+
+O projeto cumpre oque foi prometido, o nodejs não foi utilizado pela falta de conhecimento previo e tempo mas foi possivel utilizar os codigos ANSI para deixar de forma mais bonita e organizada
