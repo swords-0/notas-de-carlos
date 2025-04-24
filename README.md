@@ -79,4 +79,4 @@ Para resolução do problema foi escolhido a metodólogia de structs e vetores p
 
 ## Oque mais você acha importante compartilhar sobre o projeto
 
-O projeto cumpre oque foi prometido, o nodejs não foi utilizado pela falta de conhecimento previo e tempo mas foi possivel utilizar os codigos ANSI para deixar de forma mais bonita e organizada
+O projeto cumpre oque foi prometido, o reactjs não foi utilizado pela falta de conhecimento previo e tempo mas foi possivel utilizar os codigos ANSI para deixar de forma mais bonita e organizada
