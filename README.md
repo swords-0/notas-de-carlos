@@ -16,62 +16,62 @@ Nota da disciplina 1<br>
 3<br>
 Nota da disciplina 2<br>
 4<br>
-Nota da disciplina 3
-5
-Nota da disciplina 4
-6
-Nota da disciplina 5
-7
-Digite agora a frequencia em %:
-80
-Digite o nome do aluno, (ou 0 para encerrar)
-joão
-Agora digite as notas da disciplina:
-Nota da disciplina 1
-1
-Nota da disciplina 2
-3
-Nota da disciplina 3
-9
-Nota da disciplina 4
-10
-Nota da disciplina 5
-2
-Digite agora a frequencia em %:
-50
-Digite o nome do aluno, (ou 0 para encerrar)
-evelin
-Agora digite as notas da disciplina:
-Nota da disciplina 1
-9
-Nota da disciplina 2
-9
-Nota da disciplina 3
-10
-Nota da disciplina 4
-8
-Nota da disciplina 5
-9
-Digite agora a frequencia em %:
-100
-Digite o nome do aluno, (ou 0 para encerrar)
-0
+Nota da disciplina 3<br>
+5<br>
+Nota da disciplina 4<br>
+6<br>
+Nota da disciplina 5<br>
+7<br>
+Digite agora a frequencia em %:<br>
+80<br>
+Digite o nome do aluno, (ou 0 para encerrar)<br>
+joão<br>
+Agora digite as notas da disciplina:<br>
+Nota da disciplina 1<br>
+1<br>
+Nota da disciplina 2<br>
+3<br>
+Nota da disciplina 3<br>
+9<br>
+Nota da disciplina 4<br>
+10<br>
+Nota da disciplina 5<br>
+2<br>
+Digite agora a frequencia em %:<br>
+50<br>
+Digite o nome do aluno, (ou 0 para encerrar)<br>
+evelin<br>
+Agora digite as notas da disciplina:<br>
+Nota da disciplina 1<br>
+9<br>
+Nota da disciplina 2<br>
+9<br>
+Nota da disciplina 3<br>
+10<br>
+Nota da disciplina 4<br>
+8<br>
+Nota da disciplina 5<br>
+9<br>
+Digite agora a frequencia em %:<br>
+100<br>
+Digite o nome do aluno, (ou 0 para encerrar)<br>
+0<br>
 
 Saida:
 --- Relatório dos alunos ---
-Aluno: pedro| Media do aluno: 5| Frequência: 80%
-Aluno: joão| Media do aluno: 5| Frequência: 50%
-Aluno: evelin| Media do aluno: 9| Frequência: 100%
+Aluno: pedro| Media do aluno: 5| Frequência: 80%<br>
+Aluno: joão| Media do aluno: 5| Frequência: 50%<br>
+Aluno: evelin| Media do aluno: 9| Frequência: 100%<br>
 
-Media da turma na disciplina 1: 4.33333
-Media da turma na disciplina 2: 5.33333
-Media da turma na disciplina 3: 8
+Media da turma na disciplina 1: 4.33333<br>
+Media da turma na disciplina 2: 5.33333<br>
+Media da turma na disciplina 3: 8<br>
 
-Alunos acima da média em todas as disciplinas:
-Evelin
+Alunos acima da média em todas as disciplinas:<br>
+Evelin<br>
 
-Alunos com Frequência abaixo de 75% :
-joão
+Alunos com Frequência abaixo de 75% :<br>
+joão<br>
 
 ## Decisões de Projeto
 
