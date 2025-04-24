@@ -9,13 +9,13 @@ Para testes foram assumidas as premissas dos alunos: Pedro, João e Evelin em qu
 
 Entrada: 
 
-Digite o nome do aluno, (ou 0 para encerrar)
-pedro
-Agora digite as notas da disciplina:
-Nota da disciplina 1
-3
-Nota da disciplina 2
-4
+Digite o nome do aluno, (ou 0 para encerrar)<br>
+pedro<br>
+Agora digite as notas da disciplina:<br>
+Nota da disciplina 1<br>
+3<br>
+Nota da disciplina 2<br>
+4<br>
 Nota da disciplina 3
 5
 Nota da disciplina 4
