@@ -58,7 +58,7 @@ Digite o nome do aluno, (ou 0 para encerrar)<br>
 0<br>
 
 Saida:
---- Relatório dos alunos ---
+--- Relatório dos alunos ---<br>
 Aluno: pedro| Media do aluno: 5| Frequência: 80%<br>
 Aluno: joão| Media do aluno: 5| Frequência: 50%<br>
 Aluno: evelin| Media do aluno: 9| Frequência: 100%<br>
